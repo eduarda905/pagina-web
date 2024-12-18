@@ -1,0 +1,14 @@
+# Query: pagina web
+# ContextLines: 1
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Minha Primeira Página HTML</title>
+</head>
+<body>
+    <h1>Bem-vindo à minha Página na Web!</h1>
+    <p>Esta é uma página simples criada para a atividade do curso.</p>
+</body>
+</html>
+
